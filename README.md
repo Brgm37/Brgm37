@@ -22,7 +22,7 @@
 >
   <p align="center">
     <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=kotlin,java,c,js,ts,py&perline=3">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,c,js,ts,py&perline=10">
   </p>
   <p align="center">
     <h3>DataBase</h3>
@@ -31,12 +31,12 @@
 
   <p align="center">
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,idea,vscode,gradle,npm,nodejs,docker&perline=4">
+    <img src="https://skillicons.dev/icons?i=git,idea,vscode,gradle,npm,nodejs,docker,pycharm,androidstudio,postman&perline=10">
   </p>
 
   <p align="center">
     <h3>Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=spring,express,react,webpack&perline=3">
+    <img src="https://skillicons.dev/icons?i=spring,express,react,webpack&perline=10">
   </p>
 </div>
 

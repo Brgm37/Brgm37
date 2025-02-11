@@ -1,16 +1,56 @@
-## Hi there 👋
+<br>
 
-<!--
-**Brgm37/Brgm37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Brgm37&show_icons=true&theme=tokyonight&layout=compact&include_all_commits" alt="Brgm37" />
+    </p>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <h1 align="center">
+      Skills
+    </h1>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brgm37&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Brgm37" height="192px"/>
+      </p>
+</div>
+<br>
+<div 
+  align="center"
+>
+  <p align="center">
+    <h3>Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,c,js,ts,py&perline=3">
+  </p>
+  <p align="center">
+    <h3>DataBase</h3>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,elasticsearch">
+  </p>
+
+  <p align="center">
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,idea,vscode,gradle,npm,nodejs,docker&perline=4">
+  </p>
+
+  <p align="center">
+    <h3>Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=spring,express,react,webpack&perline=3">
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h1 align="center">
+    Connect with Me
+  </h1>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/brian-melhorado-449794307/">
+      <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+    <a href="mailto:brgm37@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail"/>
+    </a>
+</div>
